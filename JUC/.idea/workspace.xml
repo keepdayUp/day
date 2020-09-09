@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="537745d2-fdf3-45e3-91ce-55d43dfd9027" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gClnkgrwCzVdzMNWGcU7CbsXvT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19058296" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mashibing.juc.c_020" />
+      <recent name="com.mashibing" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mashibing.juc.c_000" />
+      <recent name="com.mashibing.juc.c_020" />
+      <recent name="com.mashibing.juc.c_012_Volatile" />
+      <recent name="com.mashibing.juc.c_028_FalseSharing" />
+      <recent name="com.mashibing.juc.c_020_01_Interview" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\ijprojects\JUC\src\main\java\com\mashibing\juc\c_026_01_ThreadPool" />
+      <recent name="C:\work\ijprojects\JUC\src\main\java\com\mashibing\juc\c_022_RefTypeAndThreadLocal" />
+      <recent name="C:\work\ijprojects\JUC\src\main\java\com\mashibing\disruptor\v4" />
+      <recent name="C:\work\ijprojects\JUC\src\main\java\com\mashibing\disruptor\" />
+      <recent name="C:\work\ijprojects\JUC\src\main\java\com\mashibing\disruptor\v3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AtomicFieldUpdadated_1">
+    <configuration name="AtomicFieldUpdadated_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mashibing.juc.c_000.AtomicFieldUpdadated_1" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mashibing.juc.c_000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtomicIntegerArray_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mashibing.juc.c_000.AtomicIntegerArray_1" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mashibing.juc.c_000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T01_WithoutVolatile" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mashibing.juc.c_020_01_Interview.T01_WithoutVolatile" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mashibing.juc.c_020_01_Interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T02_CacheLinePadding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mashibing.juc.c_028_FalseSharing.T02_CacheLinePadding" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mashibing.juc.c_028_FalseSharing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T04_PhantomReference" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mashibing.juc.c_022_RefTypeAndThreadLocal.T04_PhantomReference" />
+      <module name="JUC" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mashibing.juc.c_022_RefTypeAndThreadLocal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Volatile_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mashibing.juc.c_000.Volatile_1" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mashibing.juc.c_000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteCombining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mashibing.juc.c_029_WriteCombining.WriteCombining" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mashibing.juc.c_029_WriteCombining.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.T04_PhantomReference" />
+      <item itemvalue="Application.T01_WithoutVolatile" />
+      <item itemvalue="Application.T02_CacheLinePadding" />
+      <item itemvalue="Application.WriteCombining" />
+      <item itemvalue="Application.Volatile_1" />
+      <item itemvalue="Application.AtomicIntegerArray_1" />
+      <item itemvalue="Application.AtomicFieldUpdadated_1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AtomicFieldUpdadated_1" />
+        <item itemvalue="Application.AtomicIntegerArray_1" />
+        <item itemvalue="Application.Volatile_1" />
+        <item itemvalue="Application.WriteCombining" />
+        <item itemvalue="Application.T02_CacheLinePadding" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="537745d2-fdf3-45e3-91ce-55d43dfd9027" name="Default Changelist" comment="" />
+      <created>1565232818446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565232818446</updated>
+      <workItem from="1597626630206" duration="5193000" />
+      <workItem from="1597712000680" duration="5930000" />
+      <workItem from="1597737943739" duration="21685000" />
+      <workItem from="1597889070493" duration="8325000" />
+      <workItem from="1597908293325" duration="22170000" />
+      <workItem from="1597965563221" duration="12671000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交演示代码">
+      <created>1566616292953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566616292953</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2019年9月8日的更新">
+      <created>1567908240513</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567908240513</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2019年9月22日的更新">
+      <created>1569205605236</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569205605236</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2019年9月29日的更新">
+      <created>1569727444423</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569727444423</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2019年10月11日的更新">
+      <created>1570803022734</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570803022735</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2019年10月16日的更新">
+      <created>1571235524344</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571235524344</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2019年11月10日的更新">
+      <created>1573357300351</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573357300351</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交演示代码" />
+    <MESSAGE value="2019年9月8日的更新" />
+    <MESSAGE value="2019年9月22日的更新" />
+    <MESSAGE value="2019年9月29日的更新" />
+    <MESSAGE value="2019年10月11日的更新" />
+    <MESSAGE value="2019年10月16日的更新" />
+    <MESSAGE value="2019年11月10日的更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019年11月10日的更新" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="147" key="#T04_PhantomReference" timestamp="1597910925069">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="582" y="147" key="#T04_PhantomReference/0.0.1920.1050@0.0.1920.1050" timestamp="1597910925069" />
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597912321126">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1597912321126" />
+    <state x="765" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1597965989842">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1597965989842" />
+    <state width="1879" height="291" key="GridCell.Tab.0.bottom" timestamp="1597935714071">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1597935714071" />
+    <state width="1879" height="291" key="GridCell.Tab.0.center" timestamp="1597935714071">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="291" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1597935714071" />
+    <state width="1879" height="291" key="GridCell.Tab.0.left" timestamp="1597935714071">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="291" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1597935714071" />
+    <state width="1879" height="291" key="GridCell.Tab.0.right" timestamp="1597935714071">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="291" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1597935714071" />
+    <state width="1879" height="311" key="GridCell.Tab.1.bottom" timestamp="1597922568297">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="311" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1597922568297" />
+    <state width="1879" height="311" key="GridCell.Tab.1.center" timestamp="1597922568297">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="311" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1597922568297" />
+    <state width="1879" height="311" key="GridCell.Tab.1.left" timestamp="1597922568296">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="311" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1597922568296" />
+    <state width="1879" height="311" key="GridCell.Tab.1.right" timestamp="1597922568297">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="311" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1597922568297" />
+    <state x="725" y="145" key="SettingsEditor" timestamp="1597930118053">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="725" y="145" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1597930118053" />
+    <state x="681" y="266" width="627" height="524" key="StructurePopup" timestamp="1597975600072">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="681" y="266" width="627" height="524" key="StructurePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1597975600072" />
+    <state x="741" y="201" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597745898043">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="741" y="201" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1597745898043" />
+    <state x="658" y="265" width="604" height="578" key="find.popup" timestamp="1597965917076">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="658" y="265" width="604" height="578" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1597965917076" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1597922828125">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1597922828125" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1597973964839">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1597973964839" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
+          <line>807</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
